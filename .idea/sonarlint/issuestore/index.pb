@@ -1,0 +1,27 @@
+
+_
+/src/main/java/banking/jpa/ClientRepository.java,b\4\b4187edaef923cfe3a93cc8613fb7baeec3cf62c
+c
+3src/main/java/banking/jpa/ClientRepositoryImpl.java,5\7\5756c4f45a3eb29573443cc22a2cffe0791dbc75
+S
+#src/main/java/banking/Persoana.java,3\e\3e049aeded2e21a4a344d49a1d45c27a940f3816
+O
+src/main/java/banking/Cont.java,e\f\ef0a2adf87e0b8b8f469156b31a512b8bb9c0ef8
+Q
+!src/main/java/banking/Client.java,4\5\4507835c984d189acd73dc7843e0010856c5bb7c
+X
+(src/main/java/banking/test/TestCrud.java,1\c\1cf184c36b436cef96bd99f267ed31f0bccee531
+W
+'src/main/java/employee/Departament.java,4\e\4e17cef51db6ca08e33d60ebf9252a70ef3ed493
+T
+$src/main/java/employee/Persoana.java,3\e\3e752b2d813c22961c46922dc52831d39df21f93
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+T
+$src/main/java/employee/Employee.java,3\4\3465af7ad5f425664005b24bbfd52504c398a499
+S
+#src/main/java/employee/Address.java,3\e\3e9b2387ff943dcca457f2f88dca311d79fa4488
+S
+#src/main/java/employee/Company.java,8\8\88717ed8158fe14b739bac54621e36377bac6a36
+^
+.src/main/java/employee/test/TestEmployees.java,8\c\8c2c392679c97dbeb477602410f52ac15b0e4936

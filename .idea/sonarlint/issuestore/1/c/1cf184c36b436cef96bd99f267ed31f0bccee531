@@ -1,0 +1,15 @@
+
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù“Ñê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(áç¹…ûÿÿÿÿ
+g
+java:S1612"EReplace this lambda with method reference 'clientRepository::remove'.(ıŠÔÓúÿÿÿÿ8Ã¯ŠÒ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÈóÖ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë›ùşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ”‡Õ
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(Ï¹
+N	java:S106("9Replace this use of System.out or System.err by a logger.(÷â
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(”Ë‚£øÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(×ñşÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ø§Ã 
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ìõœ²ÿÿÿÿÿ
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(©ÍÛÊûÿÿÿÿ
